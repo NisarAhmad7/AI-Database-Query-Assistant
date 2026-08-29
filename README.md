@@ -1,6 +1,3 @@
-Yes — **exactly one block, one Copy button**. The important thing is: when you paste it into GitHub, **do not include the outer four backticks**. Everything inside is the actual `README.md`.
-
-````
 # AI SQL Query Assistant
 
 An AI-powered SQL assistant that lets users query a SQLite database using natural language.
@@ -414,4 +411,3 @@ It demonstrates how natural-language questions can be translated into SQL querie
 ## License
 
 This project is intended for learning, experimentation, and demonstration purposes.
-````
